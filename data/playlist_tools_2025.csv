@@ -1,1 +1,5 @@
-
+tool_name,category,methodology,targeting,notes
+SubmitHub,Curator Platform,Manual Submission,Genre-Based,Curator network with feedback features
+Groover,Curator Platform,Manual Submission,Genre-Based,"Broad categories, relies on curator acceptance"
+PlaylistPush,Discovery/Search Tool,Playlist Search,Keyword/Metadata,Helps artists find playlists manually
+Playlist Pilot,Discovery/Search Tool,Similarity Matching,Sonic-Based,Matches tracks to playlists built around similar artists
