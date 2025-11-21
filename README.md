@@ -40,3 +40,5 @@ Some public conversations where artists compared these tools:
 
 For longer-form articles about playlisting approaches and strategy:
 https://playlistpilotapp.com/blog
+
+A small structured dataset comparing playlist tools is available in the /data folder.
